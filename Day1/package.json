@@ -1,0 +1,14 @@
+{
+  "name": "day1",
+  "version": "2.5.7",
+  "description": "my first node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "author": "preeti",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.60.0"
+  }
+}
